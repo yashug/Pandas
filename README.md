@@ -3,7 +3,6 @@ Learn  how to use pandas for data analysis
 
 
 Read in this order
-* Introduction to Pandas
 * Series
 * DataFrames
 * Missing Data
